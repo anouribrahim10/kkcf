@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+  <title>Anour Ibrahim</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("https://media.istockphoto.com/vectors/space-background-with-realistic-nebula-and-shining-stars-colorful-vector-id1173451503?k=20&m=1173451503&s=612x612&w=0&h=nyxt3C6OjEFcquvjLALrIz-67IEOEpfKNBvR8qi4sLA=");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+    
+  </style>
+</head>
+<body>
+  <img src="https://i.imgur.com/FtrhQAT.jpg" width="200">
+  <p>Hi! I'm Anour, a member from KKCF. Say hello!</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
